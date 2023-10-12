@@ -16,7 +16,7 @@ export const RegisterScreen = () => {
                 <Image
                     style={{ width: 150, height: 150, marginTop: 35 }}
                     source={{
-                        uri: "https://assets.stickpng.com/images/58443ca6a6515b1e0ad75b7a.png",
+                        uri: "https://assets.stickpng.com/thumbs/59bedb177a216d0b052f128a.png",
                     }}
                 />
             </View>
